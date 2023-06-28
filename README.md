@@ -1,3 +1,5 @@
+![Pepe Mania](./assets/pepebanner.webp)
+
 # pepeUSD
 1. What the heck is PEPE USD?
 It's an experience of stablecoin backed by $PEPE only.
@@ -34,6 +36,14 @@ pepeUSD contract
 
 PEPE testnet
 > [0xa9392331d48607f77C745275CD3382ebe7a98ee1](https://sepolia.etherscan.io/token/0xa9392331d48607f77C745275CD3382ebe7a98ee1)
+
+Uniswap PEPE/pepeUSD Contract
+> [0x1238536071e1c677a632429e3655c799b22cda52](https://sepolia.etherscan.io/address/0x1238536071e1c677a632429e3655c799b22cda52)
+
+### Setup Your metamask/uniswap to use Sepolia testnet
+![Testnet Sepolia](./assets/testnet.png)
+
+
 
 ## Next steps
 * Creation of the arbitrage bots to keep the peg in check.
