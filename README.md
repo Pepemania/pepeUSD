@@ -11,6 +11,9 @@ PEPE only, because the frog is unique. 🐸
 1. How can we help?
 Right now we are running at Seporlia testnet, check the info bellow how to connect, setup a wallet at this testnet and use Uniswap. This way you can swap and help us to test it. In case you have some experience with bots for Uniswap please let us know, we have to create some to use on the test.
 
+## basics of a Stable coin
+
+
 ## Connection and token information
 
 testnet Seporlia
